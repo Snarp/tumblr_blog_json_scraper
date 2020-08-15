@@ -1,7 +1,7 @@
 Tumblr JSON Scraper
 -------------------
 
-A small script that saves a given Tumblr blog to JSON format.
+A small script that scrapes a given Tumblr blog to JSON format.
 
 ## How To Use
 
